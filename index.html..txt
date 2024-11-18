@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        .button {
+            margin-top: 20px;
+        }
+        .button a {
+            text-decoration: none;
+            color: white;
+            background-color: #f39c12;
+            padding: 15px 30px;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: bold;
+            display: inline-block;
+        }
+        .button a:hover {
+            background-color: #e67e22;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Heart Health Secrets</h1>
+        <p>Unlock the secrets to better heart health with this amazing guide.</p>
+        <p><strong>Price: $11 (Regular Price: $13.50)</strong></p>
+        <div class="button">
+            <a href="https://warriorplus.com/o2/buy/r11thp/k7y94t/xjy8tp">
+                <img src="https://warriorplus.com/o2/btn/fn100011001/r11thp/k7y94t/411591" alt="Buy Now">
+            </a>
+        </div>
+    </div>
+</body>
+</html>
